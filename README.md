@@ -3,7 +3,7 @@
 https://github.com/kalm/kalm.js
 
 ```js
-// ex/distributed_pub_sub/client.js
+// exs/distributed_pub_sub/client.js
 const kalm = require('../../packages/kalm/bin/kalm');
 const ws == require('../../packages/ws/bin/ws');
 const crypto = require('crypto');
